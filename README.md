@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-Junyyy&show_icons=true&theme=dark)   
 <!--
 **junhk09/junhk09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
