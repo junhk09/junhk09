@@ -25,5 +25,5 @@
           [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=vovo0924)](https://solved.ac/vovo0924) 
        
       
-    </div>
+   
     
