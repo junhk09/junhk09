@@ -21,9 +21,11 @@
     <div align= "center">  </div> 
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=junhk09&custom_title=junhk09's Github Stat&bg_color=180,000000,&title_color=000000&text_color=000000"
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2>
+          [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=vovo0924)](https://solved.ac/vovo0924) 
+        <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=junhk09&custom_title=junhk09's Github Stat&bg_color=180,000000,&title_color=000000&text_color=000000"
         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junhk09&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
-               [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=vovo0924)](https://solved.ac/vovo0924) 
+             
           /> </div> 
       
     </div>
