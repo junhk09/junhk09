@@ -22,8 +22,6 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2>
-          [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=vovo0924)](https://solved.ac/vovo0924) 
-       
-      <br>
+          
    
     
