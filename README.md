@@ -1,4 +1,4 @@
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=vovo0904)](https://solved.ac/vovo0904) 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=vovo0924)](https://solved.ac/vovo0924) 
 <!--
 **junhk09/junhk09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
