@@ -1,4 +1,4 @@
-
+![header](https://capsule-render.vercel.app/api?type=rect&height=200&text=Stroke%20Test&fontAlign=70&stroke=00FF00&strokeWidth=3)
 
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=transparent&color=ffffff&height=120&text=junhk's%20Github!&animation=&fontColor=ffffff&fontSize=70" />
