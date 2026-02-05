@@ -1,6 +1,6 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=vovo0924)](https://solved.ac/vovo0924) 
 
-![junhk09's GitHub stats](https://github-readme-stats.vercel.app/api?username=junhk09&show_icons=true&theme=dark)   
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junhk09&layout=Demo &theme=Demo)
 
 <!--
 **junhk09/junhk09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
