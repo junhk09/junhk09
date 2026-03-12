@@ -31,4 +31,4 @@
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junhk09&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=내아이디&theme=black-ice)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=junhk09&theme=black-ice)](https://git.io/streak-stats)
