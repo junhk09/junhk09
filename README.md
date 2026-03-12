@@ -34,18 +34,15 @@
     <img src="http://mazassumnida.wtf/api/generate_badge?boj=vovo0924" alt="Solved.ac Profile">
   </a>
   <br><br>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=junhk09&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junhk09&layout=compact&theme=vision-friendly-dark" width="38%"/>
   
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=junhk09&show_icons=true&theme=radical" width="400px" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junhk09&layout=compact&theme=vision-friendly-dark" width="350px" />
-      </td>
-    </tr>
-    <tr>
-    
-    
-  </table>
+  <br>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=junhk09&theme=black-ice" width="87%"/>
+
+  <br><br>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=junhk09&theme=github-compact&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&area=true&hide_border=true" width="87%" />
 </div>
