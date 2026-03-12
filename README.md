@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=JUN%20HYUK'S%20ARCHIVE&fontSize=70&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=JUN%20HYEOK'S%20ARCHIVE&fontSize=70&animation=fadeIn&fontAlignY=38" />
 </div>
 
 <div align="center">
