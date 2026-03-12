@@ -26,4 +26,4 @@
           
    
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=vovo0924)](https://solved.ac/vovo0924)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=내아이디&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=junhk09&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
