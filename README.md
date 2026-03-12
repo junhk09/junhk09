@@ -30,11 +30,12 @@
 <div align="center">
   <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2>
   <br>
+  
   <a href="https://solved.ac/vovo0924">
-    <img src="http://mazassumnida.wtf/api/generate_badge?boj=vovo0924" alt="Solved.ac Profile">
+    <img src="http://mazassumnida.wtf/api/generate_badge?boj=vovo0924" alt="Solved.ac Profile" width="400px">
   </a>
+  
   <br><br>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=junhk09&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junhk09&layout=compact&theme=vision-friendly-dark" width="38%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=junhk09&show_icons=true&theme=radical" width="60%"/>
 </div>
