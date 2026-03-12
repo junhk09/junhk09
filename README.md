@@ -1,4 +1,7 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&text=Welcome%20to%20junhk's%20Github&fontSize=50&animation=scaleIn" />
+</div>
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&color=ffffff&height=120&text=junhk's%20Github!&animation=&fontColor=ffffff&fontSize=70" />
 </div>
 
