@@ -1,8 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&text=Welcome%20to%20junhk's%20Github&fontSize=50&animation=scaleIn" />
-</div>
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=ffffff&height=120&text=junhk's%20Github!&animation=&fontColor=ffffff&fontSize=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=JUN%20HYUK'S%20ARCHIVE&fontSize=70&animation=fadeIn&fontAlignY=38" />
 </div>
 
 <div align="center">
@@ -33,10 +30,8 @@
 <div align="center">
   <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2>
   <br>
-  
   <a href="https://solved.ac/vovo0924">
     <img src="http://mazassumnida.wtf/api/generate_badge?boj=vovo0924" height="170px" alt="Solved.ac Profile">
   </a>
-  
   <img src="https://github-readme-stats.vercel.app/api?username=junhk09&show_icons=true&theme=radical" height="170px" />
 </div>
