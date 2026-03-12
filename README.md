@@ -45,8 +45,7 @@
       </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=junhk09&theme=black-ice" width="760px" />
+    
       </td>
     </tr>
   </table>
