@@ -30,8 +30,10 @@
 <div align="center">
   <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2>
   <br>
+  
   <a href="https://solved.ac/vovo0924">
     <img src="http://mazassumnida.wtf/api/generate_badge?boj=vovo0924" height="170px" alt="Solved.ac Profile">
   </a>
-  <img src="https://github-readme-stats.vercel.app/api?username=junhk09&show_icons=true&theme=radical" height="170px" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junhk09&layout=compact&theme=radical&hide_border=true" height="170px" />
 </div>
