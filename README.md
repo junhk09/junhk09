@@ -32,10 +32,8 @@
   <br>
   
   <a href="https://solved.ac/vovo0924">
-    <img src="http://mazassumnida.wtf/api/generate_badge?boj=vovo0924" alt="Solved.ac Profile" width="400px">
+    <img src="http://mazassumnida.wtf/api/generate_badge?boj=vovo0924" height="170px" alt="Solved.ac Profile">
   </a>
   
-  <br><br>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=junhk09&show_icons=true&theme=radical" width="60%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=junhk09&show_icons=true&theme=radical" height="170px" />
 </div>
