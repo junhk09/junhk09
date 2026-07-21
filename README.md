@@ -38,3 +38,16 @@
   
   
 </div>
+<div align="center">
+  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">🚀 Projects</h2>
+  <br>
+  
+  <p><b>📌 IOT 스마트팜 시스템</b> — (라즈베리파이, STM32, 아두이노, C/C++)</p>
+  <p><b>📌 무게 기반 자동 분류 시스템</b> — (STM32, FreeRTOS, C/C++)</p>
+  <p><b>📌 VR 원자, 분자 교육 컨텐츠</b> — (Unity, C#, MetaQuest3)</p>
+  <p><b>📌 공조기 기능 구현</b> — (FPGA, Basys3, Verilog)</p>
+  <br>
+  <p style="font-size: 13px; color: #8b949e;">
+    💡 <i>각 프로젝트의 자세한 내용과 소스 코드는 아래 <b>Pinned Repositories</b>에서 확인하실 수 있습니다!</i>
+  </p>
+</div>
