@@ -24,16 +24,9 @@
   <a href="https://blog.naver.com/vovo0904">
     <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white">
   </a>
-</div>
-<div align="center">
-  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2>
-  <br>
-  
-  <a href="https://solved.ac/vovo0924">
-    <img src="http://mazassumnida.wtf/api/generate_badge?boj=vovo0924" height="170px" alt="Solved.ac Profile">
+  <a href="https://junhk09.github.io/Portfolio_jh/">
+    <img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white">
   </a>
-  
-  
 </div>
 
   
