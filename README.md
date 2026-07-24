@@ -28,9 +28,20 @@
     <img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white">
   </a>
 </div>
+<div align="center">
+  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2>
+  <br>
+  
+  <a href="https://solved.ac/vovo0924">
+    <img src="http://mazassumnida.wtf/api/generate_badge?boj=vovo0924" height="170px" alt="Solved.ac Profile">
+  </a>
+  
+  
+</div>
 
   
   <p style="font-size: 13px; color: #8b949e;">
     💡 <i>각 프로젝트의 자세한 내용과 소스 코드는 아래 <b>Pinned Repositories</b>에서 확인하실 수 있습니다!</i>
   </p>
 </div>
+이게 내 전체 readme 코든데 project 부분만 지금 따로노는 느낌이야. 위와 같이 뱃지 느낌으로 살려줘.
