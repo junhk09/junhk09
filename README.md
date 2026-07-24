@@ -39,14 +39,28 @@
   
 </div>
 <div align="center">
-  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">🚀 Projects</h2>
-  <br>
+  ## Projects
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🤖 <a href="https://github.com/koesunghoon/Weight-based-automatic-classification-system.git">무게 기반 자동 분류 시스템</a></h3>
+      <p>로드셀·6축 로봇팔·컨베이어를 연동한 STM32/FreeRTOS 자동 분류 시스템</p>
+      <code>STM32</code> <code>FreeRTOS</code> <code>Git</code>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🌱 <a href="https://github.com/junhk09/SmartFarm.git">SmartFarm</a></h3>
+      <p>라즈베리파이·STM32·아두이노 기반 IoT 스마트팜, 실시간 대시보드 & 웹캠 스트리밍</p>
+      <code>RaspberryPi</code> <code>MariaDB</code> <code>IoT</code>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🧪 <a href="https://github.com/junhk09/Capstone.git">원자의 세계 속으로</a></h3>
+      <p>핸드 트래킹으로 원자·분자를 조작하는 Meta Quest3 VR 화학 교육 콘텐츠</p>
+      <code>Unity</code> <code>C#</code> <code>Meta Quest3</code>
+    </td>
+  </tr>
+</table>
   
-  <p><b>📌 IOT 스마트팜 시스템</b> — (라즈베리파이, STM32, 아두이노, C/C++)</p>
-  <p><b>📌 무게 기반 자동 분류 시스템</b> — (STM32, FreeRTOS, C/C++)</p>
-  <p><b>📌 VR 원자, 분자 교육 컨텐츠</b> — (Unity, C#, MetaQuest3)</p>
-  <p><b>📌 공조기 기능 구현</b> — (FPGA, Basys3, Verilog)</p>
-  <br>
   <p style="font-size: 13px; color: #8b949e;">
     💡 <i>각 프로젝트의 자세한 내용과 소스 코드는 아래 <b>Pinned Repositories</b>에서 확인하실 수 있습니다!</i>
   </p>
