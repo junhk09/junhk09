@@ -2,15 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=JUN%20HYEOK'S%20ARCHIVE&fontSize=70&animation=fadeIn&fontAlignY=38" />
 </div>
 
-<!-- Overview Section -->
-<div align="center">
-  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> ⚙️ About Me </h2>
-  <p style="font-size: 15px; color: #8b949e; line-height: 1.6;">
-    ⚡ <b>Embedded Systems & Device Driver Developer</b><br>
-    FPGA/Verilog 회로 설계부터 STM32/FreeRTOS 멀티태스킹, Linux Device Driver 및 Yocto BSP 개발,<br>
-    그리고 Edge Device(Jetson/RPi) 기반 On-Device AI 구동까지 하드웨어-소프트웨어를 연결합니다.
-  </p>
-</div>
 
 <br>
 
