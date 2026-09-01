@@ -1,6 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=JUN%20HYEOK'S%20ARCHIVE&fontSize=70&animation=fadeIn&fontAlignY=38" />
 </div>
+
 <div align="center">
   <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2>
   <br>
@@ -8,13 +9,14 @@
   <img src="https://img.shields.io/badge/Verilog-000000?style=for-the-badge&logo=verilog&logoColor=white">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <br>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white">
   <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
 </div>
+
 <div align="center">
   <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2>
   <br>
@@ -28,20 +30,22 @@
     <img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white">
   </a>
 </div>
+
 <div align="center">
   <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2>
   <br>
-  
   <a href="https://solved.ac/vovo0924">
     <img src="http://mazassumnida.wtf/api/generate_badge?boj=vovo0924" height="170px" alt="Solved.ac Profile">
   </a>
-  
-  
 </div>
 
-  
-  <p style="font-size: 13px; color: #8b949e;">
-    💡 <i>각 프로젝트의 자세한 내용과 소스 코드는 아래 <b>Pinned Repositories</b>에서 확인하실 수 있습니다!</i>
-  </p>
-</div>
+<br>
 
+<a href="https://app.notion.com/p/Portfollio-393304a11b728061a7b4d676341d475a" style="text-decoration: none; color: inherit;">
+  <blockquote style="margin: 0; padding: 16px; background-color: #f7f6f3; border: 1px solid #e1e1e0; border-left: 4px solid #0b6e99; border-radius: 8px;">
+    <p style="margin: 0; color: #37352f; font-size: 14px; line-height: 1.5;">
+      💡 <b>포트폴리오 보러가기 (Notion)</b><br>
+      각 프로젝트의 자세한 내용과 소스 코드는 노션 페이지에서 확인하실 수 있습니다!
+    </p>
+  </blockquote>
+</a>
