@@ -2,21 +2,53 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=JUN%20HYEOK'S%20ARCHIVE&fontSize=70&animation=fadeIn&fontAlignY=38" />
 </div>
 
+<!-- Overview Section -->
+<div align="center">
+  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> ⚙️ About Me </h2>
+  <p style="font-size: 15px; color: #8b949e; line-height: 1.6;">
+    ⚡ <b>Embedded Systems & Device Driver Developer</b><br>
+    FPGA/Verilog 회로 설계부터 STM32/FreeRTOS 멀티태스킹, Linux Device Driver 및 Yocto BSP 개발,<br>
+    그리고 Edge Device(Jetson/RPi) 기반 On-Device AI 구동까지 하드웨어-소프트웨어를 연결합니다.
+  </p>
+</div>
+
+<br>
+
+<!-- Tech Stacks Section -->
 <div align="center">
   <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2>
   <br>
+
+  <!-- Languages -->
+  <p><b>Languages & Hardware Description</b></p>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/Verilog-000000?style=for-the-badge&logo=verilog&logoColor=white">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+  <br><br>
+
+  <!-- Embedded & Systems -->
+  <p><b>Embedded & Operating Systems</b></p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  <br>
+  <img src="https://img.shields.io/badge/STM32-03234C?style=for-the-badge&logo=stmicroelectronics&logoColor=white">
+  <img src="https://img.shields.io/badge/FreeRTOS-0052CC?style=for-the-badge&logo=FreeRTOS&logoColor=white">
+  <img src="https://img.shields.io/badge/Yocto-2B3137?style=for-the-badge&logo=yocto&logoColor=white">
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white">
+  <img src="https://img.shields.io/badge/NVIDIA%20Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
+  <br><br>
+
+  <!-- Tools & Frameworks -->
+  <p><b>Computer Vision & Tools</b></p>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white">
   <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white">
 </div>
 
+<br>
+
+<!-- Contact Me Section -->
 <div align="center">
   <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2>
   <br>
@@ -28,6 +60,9 @@
   </a>
 </div>
 
+<br>
+
+<!-- Stats Section -->
 <div align="center">
   <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2>
   <br>
@@ -38,6 +73,7 @@
 
 <br>
 
+<!-- Projects Section -->
 <div align="center">
   <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 📁 Projects </h2>
   <p style="font-size: 13px; color: #8b949e;">💡 <i>카드나 제목을 클릭하시면 노션 포트폴리오로 이동합니다!</i></p>
