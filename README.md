@@ -41,11 +41,13 @@
 
 <br>
 
-<a href="https://app.notion.com/p/Portfollio-393304a11b728061a7b4d676341d475a" style="text-decoration: none; color: inherit;">
-  <blockquote style="margin: 0; padding: 16px; background-color: #f7f6f3; border: 1px solid #e1e1e0; border-left: 4px solid #0b6e99; border-radius: 8px;">
-    <p style="margin: 0; color: #37352f; font-size: 14px; line-height: 1.5;">
-      💡 <b>포트폴리오 보러가기 (Notion)</b><br>
-      각 프로젝트의 자세한 내용과 소스 코드는 노션 페이지에서 확인하실 수 있습니다!
-    </p>
-  </blockquote>
+<a href="https://app.notion.com/p/Portfollio-393304a11b728061a7b4d676341d475a">
+  <table width="100%">
+    <tr>
+      <td>
+        💡 <b>포트폴리오 보러가기 (Notion)</b><br>
+        각 프로젝트의 자세한 내용과 소스 코드는 노션 페이지에서 확인하실 수 있습니다!
+      </td>
+    </tr>
+  </table>
 </a>
