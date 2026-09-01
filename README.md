@@ -41,13 +41,42 @@
 
 <br>
 
-<a href="https://app.notion.com/p/Portfollio-393304a11b728061a7b4d676341d475a">
-  <table width="100%">
-    <tr>
-      <td>
-        💡 <b>포트폴리오 보러가기 (Notion)</b><br>
-        각 프로젝트의 자세한 내용과 소스 코드는 노션 페이지에서 확인하실 수 있습니다!
-      </td>
-    </tr>
-  </table>
-</a>
+<div align="center">
+  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 📁 Projects </h2>
+  <p style="font-size: 13px; color: #8b949e;">💡 <i>이미지를 클릭하시면 노션 포트폴리오로 이동합니다!</i></p>
+  <br>
+
+  <!-- 1. StudyCam -->
+  <h3>StudyCam (2026.07 ~ 2026.08)</h3>
+  <a href="https://app.notion.com/p/Portfollio-393304a11b728061a7b4d676341d475a">
+    <img src="https://github.com/junhk09/junhk09/blob/main/Studycam.webp?raw=true" width="100%" alt="StudyCam">
+  </a>
+  <br><br><br>
+
+  <!-- 2. Smartfarm -->
+  <h3>Smartfarm (2026.05 ~ 2026.06)</h3>
+  <a href="https://app.notion.com/p/Portfollio-393304a11b728061a7b4d676341d475a">
+    <img src="https://github.com/junhk09/junhk09/blob/main/smartfarm.webp?raw=true" width="100%" alt="Smartfarm">
+  </a>
+  <br><br><br>
+
+  <!-- 3. 무게 기반 자동 분류 시스템 (로봇팔) -->
+  <h3>무게 기반 자동 분류 시스템 (2026.04 ~ 2026.05)</h3>
+  <a href="https://app.notion.com/p/Portfollio-393304a11b728061a7b4d676341d475a">
+    <img src="https://github.com/junhk09/junhk09/blob/main/%EB%A1%9C%EB%B4%87%ED%8C%94.webp?raw=true" width="100%" alt="무게 기반 자동 분류 시스템">
+  </a>
+  <br><br><br>
+
+  <!-- 4. 공조기 -->
+  <h3>공조기 (2026.03 ~ 2026.04)</h3>
+  <a href="https://app.notion.com/p/Portfollio-393304a11b728061a7b4d676341d475a">
+    <img src="https://github.com/junhk09/junhk09/blob/main/%EA%B3%B5%EC%A1%B0%EA%B8%B0.webp?raw=true" width="100%" alt="공조기">
+  </a>
+  <br><br><br>
+
+  <!-- 5. 원자의 세계 속으로 -->
+  <h3>원자의 세계 속으로 (2025.03 ~ 2025.05)</h3>
+  <a href="https://app.notion.com/p/Portfollio-393304a11b728061a7b4d676341d475a">
+    <img src="https://github.com/junhk09/junhk09/blob/main/%EC%9B%90%EC%9E%90%EC%9D%98_%EC%84%B8%EA%B3%84_%EC%86%8D%EC%9C%BC%EB%A1%9C.webp?raw=true" width="100%" alt="원자의 세계 속으로">
+  </a>
+</div>
